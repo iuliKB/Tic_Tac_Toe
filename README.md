@@ -1,1 +1,1 @@
-Implemetation of TiC-TAC-TOE game
+Implemetation of TiC-Tac-Toe game
